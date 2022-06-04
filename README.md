@@ -1,1 +1,1 @@
-# Webshop-za-lopte
+Open folder with live server extension
